@@ -1,5 +1,8 @@
 # continuesintegration-
-Halloween Event Setup
+
+Motive 
+------
+A popular theme for the upcoming Halloween holiday is to make haunted house simulations. A chat bot to respond a user's request.
 
 
 Installation
